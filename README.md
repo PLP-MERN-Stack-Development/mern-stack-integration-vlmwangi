@@ -172,3 +172,10 @@ Pagination
 Search & filtering
 Comments
 Clean code and separation of concerns
+
+## Images of working project.
+Connection to database successful. <img width="1398" height="530" alt="image" src="https://github.com/user-attachments/assets/113ed888-280e-48ec-a522-ee71603adf2a" />
+Thunder client test to add login information. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3681d8a7-d0e9-465c-84c9-31e875d9f530" />
+
+
+
