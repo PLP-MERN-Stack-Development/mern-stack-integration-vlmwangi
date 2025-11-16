@@ -176,6 +176,8 @@ Clean code and separation of concerns
 ## Images of working project.
 Connection to database successful. <img width="1398" height="530" alt="image" src="https://github.com/user-attachments/assets/113ed888-280e-48ec-a522-ee71603adf2a" />
 Thunder client test to add login information. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3681d8a7-d0e9-465c-84c9-31e875d9f530" />
-
+Categories posted via thunder client display 
+i) on port <img width="1914" height="282" alt="image" src="https://github.com/user-attachments/assets/7ade519a-9d08-4479-901a-3a14f06497e4" />
+ii) on thunder client via GET request <img width="1382" height="681" alt="image" src="https://github.com/user-attachments/assets/df4bb78c-412c-450b-a119-e6cfd54a81e7" />
 
 
